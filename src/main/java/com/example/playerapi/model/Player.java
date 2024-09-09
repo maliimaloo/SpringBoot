@@ -15,7 +15,6 @@ public class Player {
 
     private String name;
 
-    // Constructeurs
     public Player() {
     }
 
@@ -23,7 +22,6 @@ public class Player {
         this.name = name;
     }
 
-    // Getters et Setters
     public Long getId() {
         return id;
     }
